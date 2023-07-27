@@ -11,4 +11,8 @@
     <ProjectReference Include="..\FigureManager.Core\FigureManager.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Exec_2\" />
+  </ItemGroup>
+
 </Project>
